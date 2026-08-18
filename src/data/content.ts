@@ -1,15 +1,15 @@
 import type { Locale } from "@/lib/types";
 
 export const siteConfig = {
-  name: "Seu Nome",
+  name: "Sofia Fernandes Ferreira Silva",
   role: {
     pt: "Engenheiro(a) de Software",
     en: "Software Engineer",
   },
-  email: "seuemail@exemplo.com",
-  whatsapp: "5500000000000",
-  linkedin: "https://www.linkedin.com/in/seu-usuario",
-  github: "https://github.com/seu-usuario",
+  email: "sofia.fernandesfs4@gmail.com",
+  whatsapp: "31 99644-2401",
+  linkedin: "https://www.linkedin.com/in/sofia-silva-9bb194251/",
+  github: "https://github.com/frndsv",
 };
 
 export const dictionary = {
