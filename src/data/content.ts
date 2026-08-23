@@ -32,10 +32,10 @@ export const dictionary = {
       pt: "Sou estudante de Engenharia de Software com interesse em desenvolvimento web e boas práticas de arquitetura de sistemas. Gosto de transformar problemas reais em soluções simples, testáveis e fáceis de manter. Atualmente busco oportunidades de estágio e projetos onde eu possa aprender continuamente e contribuir com times multidisciplinares.",
       en: "I'm a Software Engineering student interested in web development and solid system architecture practices. I enjoy turning real problems into simple, testable and maintainable solutions. I'm currently looking for internship opportunities and projects where I can keep learning and contribute to cross-functional teams.",
     },
-    focusTitle: { pt: "Áreas de atuação", en: "Focus areas" },
+    focusTitle: { pt: "Áreas de interesse", en: "Focus areas" },
     focusItems: {
-      pt: ["Desenvolvimento Front-end", "Desenvolvimento Back-end", "UI/UX e Design de Interfaces", "Arquitetura de Software"],
-      en: ["Front-end Development", "Back-end Development", "UI/UX & Interface Design", "Software Architecture"],
+      pt: ["Analise de dados", "Desenvolvimento Back-end", "Inteligencia Artificial", "Arquitetura de Software", "UI/UX e Design de Interfaces"],
+      en: [ "Data Analysis", "Back-end Development", "Artificial Inteligence", "Software Architecture", "UI/UX & Interface Design"],
     },
     goalsTitle: { pt: "Objetivos", en: "Goals" },
     goalsBody: {
