@@ -6,6 +6,7 @@ Site de portfólio bilíngue (PT/EN) e responsivo, com seções de Sobre Mim, Pr
 
 **Wireframes (Figma):** https://www.figma.com/design/DV5dIJR6QSNuIARWeF3Suw/Prototipo-Portfolio?node-id=0-1
 
+**Site publicado:** https://portifoliomodelo-peach.vercel.app
 
 ## Tecnologias
 
@@ -64,3 +65,12 @@ npm run lint    # checagem de lint
 | Experiências | Contato |
 | --- | --- |
 | ![Página Experiências](./docs/screenshots/experiencias.jpg) | ![Página Contato](./docs/screenshots/contato.jpg) |
+
+## Créditos de imagens
+
+Os projetos internos/privados usam imagens ilustrativas de terceiros (não são capturas de tela dos sistemas reais, que são de acesso restrito):
+
+- `airflow-pipelines.png` — [documentação oficial do Apache Airflow](https://airflow.apache.org/docs/apache-airflow/stable/ui.html) (Apache License 2.0)
+- `spark-pipeline-larga-escala.png` — [documentação oficial do Apache Spark](https://spark.apache.org/docs/latest/web-ui.html) (Apache License 2.0)
+- `langchain-agentes-ia.png` — [Chatbot Arena main UI](https://commons.wikimedia.org/wiki/File:Chatbot_Arena_main_UI.png) (Wikimedia Commons, domínio público)
+- `automacao-processos-ia.jpg` — [U.S. Air Force Robotics Process Automation Roadshow](https://commons.wikimedia.org/wiki/File:Air_Force%E2%80%99s_Robotics_Process_Automation_Roadshow_(8257962).jpg) (Wikimedia Commons, domínio público)
