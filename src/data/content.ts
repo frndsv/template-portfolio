@@ -3,8 +3,8 @@ import type { Locale } from "@/lib/types";
 export const siteConfig = {
   name: "Sofia Fernandes Ferreira Silva",
   role: {
-    pt: "Engenheiro de Dados & Automação",
-    en: "Data Engineer & Automation",
+    pt: "Engenheiro(a) de Software",
+    en: "Software Engineer",
   },
   email: "sofia.fernandesfs4@gmail.com",
   whatsapp: "31 99644-2401",
@@ -22,15 +22,15 @@ export const dictionary = {
   home: {
     greeting: { pt: "Olá, eu sou", en: "Hi, I'm" },
     tagline: {
-      pt: "Estudante de Engenharia de Software com experiência prática em automação de processos, pipelines de dados e IA — construindo soluções que geram impacto real nas operações.",
-      en: "Software Engineering student with hands-on experience in process automation, data pipelines and AI — building solutions that generate real impact on operations.",
+      pt: "Construo produtos digitais com foco em qualidade, performance e boa experiência de uso.",
+      en: "I build digital products focused on quality, performance and great user experience.",
     },
     ctaProjects: { pt: "Ver projetos", en: "View projects" },
     ctaContact: { pt: "Fale comigo", en: "Get in touch" },
     aboutTitle: { pt: "Sobre mim", en: "About me" },
     aboutBody: {
-      pt: "Sou estudante de Engenharia de Software na PUC Minas com experiência prática em automação de processos, pipelines de dados e IA — atualmente atuando no Banco Inter na área de Data Analytics. Minha paixão é transformar dados brutos em valor real: construo pipelines com Python e Airflow, orquestro automações robustas com Automation Anywhere e IA generativa, e entrego soluções serverless escaláveis na AWS. Gosto de atuar desde a captação dos requisitos até a entrega final, com foco em engenharia de software, boas práticas e impacto direto nas operações.",
-      en: "I'm a Software Engineering student at PUC Minas with hands-on experience in process automation, data pipelines and AI — currently working at Banco Inter in Data Analytics. My passion is turning raw data into real value: I build pipelines with Python and Airflow, orchestrate robust automations with Automation Anywhere and generative AI, and ship scalable serverless solutions on AWS. I like owning work end to end, from gathering requirements to final delivery, with a focus on software engineering, good practices and direct impact on operations.",
+      pt: "Sou estudante de Engenharia de Software com interesse em desenvolvimento web e boas práticas de arquitetura de sistemas. Gosto de transformar problemas reais em soluções simples, testáveis e fáceis de manter. Atualmente busco oportunidades de estágio e projetos onde eu possa aprender continuamente e contribuir com times multidisciplinares.",
+      en: "I'm a Software Engineering student interested in web development and solid system architecture practices. I enjoy turning real problems into simple, testable and maintainable solutions. I'm currently looking for internship opportunities and projects where I can keep learning and contribute to cross-functional teams.",
     },
     focusTitle: { pt: "Áreas de interesse", en: "Focus areas" },
     focusItems: {
@@ -39,8 +39,8 @@ export const dictionary = {
     },
     goalsTitle: { pt: "Objetivos", en: "Goals" },
     goalsBody: {
-      pt: "Quero seguir aprofundando minha atuação em engenharia de dados e automação com IA enquanto concluo a graduação em Engenharia de Software na PUC Minas, contribuindo com times de engenharia que valorizem qualidade, colaboração e aprendizado contínuo.",
-      en: "I want to keep deepening my work in data engineering and AI-driven automation while finishing my Software Engineering degree at PUC Minas, contributing to engineering teams that value quality, collaboration and continuous learning.",
+      pt: "Quero atuar em times de engenharia que valorizem qualidade de código, colaboração e aprendizado contínuo, evoluindo como desenvolvedor(a) full-stack.",
+      en: "I want to work with engineering teams that value code quality, collaboration and continuous learning, growing as a full-stack developer.",
     },
   },
   projects: {
@@ -53,16 +53,24 @@ export const dictionary = {
     repository: { pt: "Repositório", en: "Repository" },
     liveDemo: { pt: "Ver online", en: "Live demo" },
     imagePlaceholder: { pt: "Imagem/GIF do projeto", en: "Project image/GIF" },
-    internalProject: { pt: "Projeto interno / privado", en: "Internal / private project" },
   },
   experience: {
     title: { pt: "Experiências", en: "Experience" },
+
     subtitle: {
-      pt: "Trajetória profissional e acadêmica em dados, automação e engenharia de software.",
-      en: "Professional and academic journey across data, automation and software engineering.",
+      pt: "Experiências acadêmicas, voluntárias e projetos que fizeram parte da minha trajetória.",
+      en: "Academic, volunteer, and project experiences that shaped my journey.",
     },
-    stack: { pt: "Tecnologias", en: "Technologies" },
-    current: { pt: "Atual", en: "Current" },
+
+    current: {
+      pt: "Atual",
+      en: "Current",
+    },
+
+    stack: {
+      pt: "Tecnologias",
+      en: "Technologies",
+    },
   },
   contact: {
     title: { pt: "Contato", en: "Contact" },
