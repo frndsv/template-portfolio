@@ -53,6 +53,10 @@ export const dictionary = {
     repository: { pt: "Repositório", en: "Repository" },
     liveDemo: { pt: "Ver online", en: "Live demo" },
     imagePlaceholder: { pt: "Imagem/GIF do projeto", en: "Project image/GIF" },
+    internalProject: {
+      pt: "Projeto interno",
+      en: "Internal project",
+    },
   },
   experience: {
     title: { pt: "Experiências", en: "Experience" },
@@ -99,6 +103,7 @@ export const dictionary = {
     rights: { pt: "Todos os direitos reservados.", en: "All rights reserved." },
     builtWith: { pt: "Desenvolvido com Next.js e Tailwind CSS.", en: "Built with Next.js and Tailwind CSS." },
   },
+  
 } as const;
 
 export function t<T extends Record<Locale, string>>(field: T, locale: Locale): string {
