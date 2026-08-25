@@ -8,7 +8,9 @@ export interface Project {
   date: string;
   description: LocalizedText;
   technologies: string[];
-  githubUrl: string;
+  context?: string;
+  internal?: boolean;
+  githubUrl?: string;
   demoUrl?: string;
   image?: string;
 }
@@ -17,5 +19,7 @@ export interface Experience {
   organization: string;
   role: LocalizedText;
   period: LocalizedText;
-  description: LocalizedText;
+  description: Record<Locale, string[]>;
+  stack?: string[];
+  current?: boolean;
 }

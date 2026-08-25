@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+  import type { Metadata } from "next";
 import { IBM_Plex_Sans, IBM_Plex_Mono } from "next/font/google";
 import "./globals.css";
 import { Providers } from "@/context/providers";

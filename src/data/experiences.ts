@@ -9,6 +9,7 @@ export const experiences: Experience[] = [
       pt: "O Elas++ é um programa de extensão comunitária universitária que visa incentivar mais mulheres a seguirem carreiras em tecnologia e ciência da computação em Belo Horizonte e região. Como integrante do projeto, participo de palestras, oficinas e atividades sociais focadas em levar conhecimento e conteúdo educacional para fora do ambiente acadêmico. Por meio dessas vivências, desenvolvi minhas habilidades de comunicação, trabalho em equipe e relacionamento interpessoal.",
       en: "Elas++ is a university community outreach program that aims to encourage more women to pursue careers in technology and computer science in Belo Horizonte and the surrounding region. As a member of the project, I have participated in lectures, workshops, and social activities focused on bringing knowledge and educational content to people outside the academic environment. Through these experiences, I have developed my communication, teamwork, and interpersonal skills.",
     },
+    stack: ["Python", "PySpark", "dbt", "Airflow", "SQL", "Cloud"],
   },
   {
     organization: "Colégio COTEMIG",
